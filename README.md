@@ -10,7 +10,7 @@ A simple and responsive currency converter mini project built with **React** and
 
 ## Features
 
-- Convert between different currencies (USD, INR, EUR)
+- Convert between different currencies (USD,PKR, INR, EUR)
 - Clean and responsive user interface
 - Swap functionality between source and target currencies
 - Real-time input validation
